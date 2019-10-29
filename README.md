@@ -1,2 +1,6 @@
-# tugas_24_css
-tugas 24 css
+# Tugas 24 CSS
+
+- Tugas ini berisi membuat form dengan bootstrap
+- Ditulis oleh [Piscki Pratama](http://www.linkedin.com/in/pisckipratama)
+
+> Don't talk about it, be about it!
